@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joel/Desktop/Projects/374/374/main'
+relocations:     []
+...
